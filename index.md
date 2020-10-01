@@ -1,8 +1,8 @@
-## ONE SOURCE INDUSTRIES, LLC. 
+## AVERtek 
 
 ---
 
-### 3D Model Display
+### Lambo Demo
 
 <!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
